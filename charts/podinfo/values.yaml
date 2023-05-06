@@ -8,11 +8,11 @@ backends: []
 
 image:
   repository: ghcr.io/stefanprodan/podinfo
-  tag: 6.3.4
+  tag: 6.3.5
   pullPolicy: IfNotPresent
 
 ui:
-  color:  "#ffd700" #"#2e8b57" #"#34577c"
+  color: "#2e8b57" #"#34577c"
   message: ""
   logo: ""
 
